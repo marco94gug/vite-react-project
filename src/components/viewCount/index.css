@@ -1,0 +1,14 @@
+.text-content {
+  font-weight: bold;
+  color: rgb(34, 34, 34);
+  background-color: rgb(238, 238, 238);
+  padding: 12px;
+  border-radius: 8px;
+  width: max-content;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.254);
+}
+
+.text-content span {
+  font-weight: 400;
+  color: rgb(130, 77, 77);
+}

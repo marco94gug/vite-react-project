@@ -1,0 +1,11 @@
+.wrapper {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.counter-section {
+  display: flex;
+  gap: 8px;
+}
